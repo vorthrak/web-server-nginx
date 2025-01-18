@@ -4,5 +4,7 @@
 - ```sudo apt install nginx -y```
 - ```sudo systemctl start nginx```
 - ```sudo systemctl status nginx```
+---
 ## Change the contents of the file
-- ```sudo nano /var/www/html/index.nginx-debian.html```
+- ```sudo nano /var/www/html/<taruh file>```
+---
